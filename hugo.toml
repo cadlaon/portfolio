@@ -1,0 +1,4 @@
+baseURL = 'https://cadlaon.com'
+languageCode = 'en-us'
+title = 'Portfolio - Terrence Cadlaon'
+theme = 'hugo-book'
